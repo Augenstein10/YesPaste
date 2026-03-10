@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "YesPaste Clipboard",
+    "history": "History",
+    "settings": "Settings",
+    "search": "Search…",
+    "clearAll": "Clear All",
+    "copy": "Copy",
+    "delete": "Delete",
+    "empty": "No clipboard history",
+    "copySuccess": "Copied to clipboard",
+    "copyFailed": "Copy failed",
+    "collapse": "Collapse",
+    "expand": "Expand"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Clipboard history & preferences",
+    "sectionStorage": "Storage & cleanup",
+    "sectionShortcut": "Shortcut & startup",
+    "sectionAppearance": "Appearance",
+    "maxRetentionDays": "Max retention (days)",
+    "maxRetentionDaysHint": "Older items are removed automatically",
+    "maxItems": "Max items",
+    "maxItemsHint": "Maximum number of items in the list",
+    "hotkey": "Show history hotkey",
+    "hotkeyHint": "Opens the history window",
+    "autoStart": "Start at login",
+    "autoStartHint": "Launch YesPaste when system starts",
+    "language": "Interface language"
+  },
+  "lang": {
+    "zh": "简体中文",
+    "en": "English"
+  }
+}

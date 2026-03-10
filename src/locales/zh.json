@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "YesPaste 剪切板",
+    "history": "历史记录",
+    "settings": "设置",
+    "search": "搜索…",
+    "clearAll": "清空全部",
+    "copy": "复制",
+    "delete": "删除",
+    "empty": "暂无剪切板记录",
+    "copySuccess": "已复制到剪切板",
+    "copyFailed": "复制失败",
+    "collapse": "收起菜单",
+    "expand": "展开菜单"
+  },
+  "settings": {
+    "title": "设置",
+    "subtitle": "管理剪切板历史与偏好",
+    "sectionStorage": "存储与清理",
+    "sectionShortcut": "快捷与启动",
+    "sectionAppearance": "界面",
+    "maxRetentionDays": "最大保留天数",
+    "maxRetentionDaysHint": "超过天数的记录将自动删除",
+    "maxItems": "最大保留条数",
+    "maxItemsHint": "列表最多显示的记录数量",
+    "hotkey": "唤出快捷键",
+    "hotkeyHint": "按下后打开历史记录窗口",
+    "autoStart": "开机自动启动",
+    "autoStartHint": "启动系统时自动运行 YesPaste",
+    "language": "界面语言"
+  },
+  "lang": {
+    "zh": "简体中文",
+    "en": "English"
+  }
+}
